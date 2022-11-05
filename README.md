@@ -1,2 +1,5 @@
 # R4t180R
-Various dev projects
+
+Dedicated to my various projects
+
+I guess I will drink a lot of ☕ during these projects.
