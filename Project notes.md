@@ -2,6 +2,8 @@
 
 This is the documentation for XYZ Project.
 
+## Introdcution
+
 XYZ is a new project.
 
 |a|	b|	c|
@@ -9,9 +11,9 @@ XYZ is a new project.
 |1|	2|	3|
 |4|	5|	6|
 
-References:
+## References:
 * Number One
 * Number Two
 * Number Three
 
-Closing remarks
+## Closing remarks
